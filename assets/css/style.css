@@ -1,0 +1,49 @@
+*
+{
+	
+	font-family: 'Charm', cursive;
+	font-size:20px;
+}
+
+.link-light
+{
+	font-size:25px;
+	padding:10px;
+	text-decoration:none;
+	color:black
+	
+}
+.bg-info1
+{
+background-color: #ffcccc;
+}
+.about
+{
+	background-color: #ffcccc;
+	padding:20px;
+}
+.about-content h2,p
+{
+	padding:2px;
+	margin:20px;
+}
+.bg-body
+{
+	background-color: #ffcccc;
+	
+}
+.skills img
+{
+	width:110px;
+	height:110px;
+	padding:5px;
+	margin:auto;
+}
+.skills
+{
+	border:1px solid;
+}
+.footer
+{
+	padding:15px;
+}
